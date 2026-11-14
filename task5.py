@@ -1,3 +1,5 @@
+# Task 5: sum, max and average of a list
+
 numbers = [4, 8, 15, 16, 23, 42]
 
 total = 0
