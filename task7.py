@@ -1,3 +1,4 @@
+# Task 7: rectangle area function
 def rectangle_area(width, height):
     return width * height
 
