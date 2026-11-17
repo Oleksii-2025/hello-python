@@ -1,3 +1,5 @@
+# Task 9: grades dictionary
+
 grades = {"Математика": 5, "Физика": 4, "Химия": 3}
 
 for subject, grade in grades.items():
